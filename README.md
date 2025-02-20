@@ -1,4 +1,4 @@
-# Rebu 🚗
+# Rebu 🚗   (CURRENTLY IN DEVELOPMENT)
 
 Rebu is a ride-sharing platform built completely from scratch, inspired by Uber. This project aims to provide a seamless, user-friendly experience for both riders and drivers, with a focus on scalability, reliability, and innovation.
 
