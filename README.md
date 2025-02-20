@@ -7,11 +7,8 @@ Rebu is a ride-sharing platform built completely from scratch, inspired by Uber.
 ## Table of Contents
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
-3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgments](#acknowledgments)
+5. [Acknowledgments](#acknowledgments)
 
 ---
 
