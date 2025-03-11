@@ -1,4 +1,4 @@
-# Rebu 🚗   (CURRENTLY IN DEVELOPMENT)
+# Rebu    (CURRENTLY IN DEVELOPMENT)
 
 Rebu is a ride-sharing platform built completely from scratch, inspired by Uber. This project aims to provide a seamless, user-friendly experience for both riders and drivers, with a focus on scalability, reliability, and innovation.
 
@@ -10,7 +10,7 @@ Rebu is a ride-sharing platform built completely from scratch, inspired by Uber.
 4. [Usage](#usage)
 ---
 
-## Features ✨
+## Features 
 
 - **Rider App:**
   - Request rides with real-time tracking.
@@ -31,7 +31,7 @@ Rebu is a ride-sharing platform built completely from scratch, inspired by Uber.
 
 ---
 
-## Tech Stack 💻
+## Tech Stack 
 
 - **Frontend:** React.js, React Native (for mobile apps), Redux for state management.
 - **Backend:** Node.js, Express.js, GraphQL (optional).
